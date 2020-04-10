@@ -9,7 +9,7 @@ You can do combined and or operations on the flag as per your requirement, refer
 Use the package manager [pip](https://pip.pypa.io/en/stable/).
 
 ```bash
-pip install BitBooleanFlags
+pip install bit-boolean-flags
 ```
 
 ## Sample
