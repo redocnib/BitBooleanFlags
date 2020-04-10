@@ -16,7 +16,7 @@ setup(
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
     # metadata for upload to PyPI
-    author="Kiran, Vysakh",
+    author="Kiran AK",
     author_email="kiran.txt@gmail.com",
     description='Bit boolean flag wrapper, allows you to store flags inside a single number.',
     long_description="""
@@ -29,7 +29,7 @@ You can do combined and or operations on the flag as per your requirement, refer
     url='https://github.com/redocnib/BitBooleanFlags',
     platforms='Cross platform',
     classifiers=[
-        "Development Status :: 1 - Production/Stable",
+        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
