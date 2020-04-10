@@ -26,7 +26,7 @@ You can do combined and or operations on the flag as per your requirement, refer
 """,
     license="MIT",
     keywords="bit flags, boolean bit flags",
-    url='',
+    url='https://github.com/redocnib/BitBooleanFlags',
     platforms='Cross platform',
     classifiers=[
         "Development Status :: 1 - Production/Stable",
