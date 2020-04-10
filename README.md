@@ -1,4 +1,4 @@
-# BitBooleanFlags - Wrapper Syntax'ed
+# [BitBooleanFlags - Wrapper Syntax'ed](https://github.com/redocnib/BitBooleanFlags)
 
 Bit boolean flag wrapper, allows you to store flags inside a single number. 
 Each flag uses powers of two, and the number of flags you can store depends on the capacity of the numeric data type.
@@ -6,7 +6,7 @@ You can do combined and or operations on the flag as per your requirement, refer
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/).
 
 ```bash
 pip install BitBooleanFlags
