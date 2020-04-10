@@ -1,4 +1,4 @@
-# [BitBooleanFlags - Wrapper Syntax'ed](https://github.com/redocnib/BitBooleanFlags)
+# BitBooleanFlags - Wrapper Syntax'ed [#](https://github.com/redocnib/BitBooleanFlags)
 
 Bit boolean flag wrapper, allows you to store flags inside a single number. 
 Each flag uses powers of two, and the number of flags you can store depends on the capacity of the numeric data type.
