@@ -25,6 +25,7 @@ Each flag uses powers of two, and the number of flags you can store depends on t
 You can do combined and or operations on the flag as per your requirement, refer examples.
 """,
     license="MIT",
+    download_url="https://github.com/redocnib/BitBooleanFlags/archive/v1.0.tar.gz",
     keywords="bit flags, boolean bit flags",
     url='https://github.com/redocnib/BitBooleanFlags',
     platforms='Cross platform',
