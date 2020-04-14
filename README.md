@@ -47,7 +47,7 @@ print("Process 1 =>  ROOT_ACCESS or CREATE_FILE : "+ str(BBF(process1).orHas("RO
 print("has(): and operation")
 print("Process 2 =>  DELETE_FOLDER and CREATE_FOLDER : "+ str(BBF(process2).has("DELETE_FOLDER","CREATE_FOLDER")))
 
-#store process1,process2,process3 in db or another storage medium as it a number.
+#store process1,process2,process3 in db or another storage medium as it is a number.
 ```
 
 ## Contributing
