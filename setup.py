@@ -11,7 +11,7 @@ from setuptools import setup
 
 setup(
     name="bit_boolean_flags",
-    version="1.0",
+    version="2.0",
     packages=find_packages('src'),
     package_dir={'': 'src'},
     py_modules=[splitext(basename(path))[0] for path in glob('src/*.py')],
@@ -30,7 +30,6 @@ You can do combined and or operations on the flag as per your requirement, refer
     url='https://github.com/redocnib/BitBooleanFlags',
     platforms='Cross platform',
     classifiers=[
-        "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
         "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
